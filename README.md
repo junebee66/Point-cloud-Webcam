@@ -1,4 +1,4 @@
-# Point-cloud Webcam
+# 📸 Point-cloud Webcam ☁️
 ![image is not loaded, please try again](./assets/point-cloud-webcam.gif)
 <br>
 
