@@ -1,4 +1,5 @@
-# 📸 Point-cloud Webcam ☁️
+# 📸 Point-cloud Webcam ☁️ <br>
+This coding sketch creates point cloud from user's webcam image data.
 ![image is not loaded, please try again](./assets/point-cloud-webcam.gif)
 <br>
 
